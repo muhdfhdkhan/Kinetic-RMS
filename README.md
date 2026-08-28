@@ -17,7 +17,7 @@ Recruitment firms run on **pipeline visibility and speed**. Kinetic RMS answers 
 - **What needs my attention today?** — interviews today, overdue tasks, pending offers, and upcoming reminders are surfaced on the dashboard.
 - **Do we stay compliant and auditable?** — full audit logging, role-based access, and exportable reports.
 
-For a recruitment firm this translates into **faster time-to-fill, higher placement conversion, enforceable SLA follow-up, and defensible data** for clients and management.
+For A recruitment firm this translates into **faster time-to-fill, higher placement conversion, enforceable SLA follow-up, and defensible data** for clients and management.
 
 ---
 
